@@ -24,3 +24,10 @@
 //     console.log(i);
 // }
 // while(i < 0);
+
+
+// const animals = ["bird", "cat", "horse", "dog", "ship"];
+
+// animals.forEach(animals => {
+// console.log(animals);
+// });
